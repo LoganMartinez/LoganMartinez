@@ -1,5 +1,5 @@
 ### Hi, I'm Logan
-
+I'm currently a computer science student at Trinity University. I have a passion for solving problems that require creativity and critical thinking. Currently, I'm looking for opportunities that will challenge me and introduce me to new concepts within the field of computer science. 
 <!--
 **LoganMartinez/LoganMartinez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
