@@ -1,5 +1,11 @@
 ### Hi, I'm Logan
-I'm a computer science student studying at Trinity University. I have a passion for solving problems that require creativity and critical thinking. Currently, I'm looking for opportunities that will challenge me and introduce me to new concepts within the field of computer science. 
+I'm a computer science senior graduating from Trinity University. I currently have experience in web development and machine learning, but I'm always open to try and learn new things.
+
+## Some projects I'm proud of
+- [MDiiN](https://github.com/BioinformaticsStudy/AgingHealth): Expanded on [this](https://github.com/Spencerfar/djin-aging) age trajectory ML model to allow it to interpret more complex interactions between health variables.
+- [Marlbruh](https://github.com/LoganMartinez/marlbruh): A website with a ton of functionality used by me and my roommates.
+- [IMessageGPT](https://github.com/LoganMartinez/iMessage-GPT): Implements AI chatbots that can be used in IMessage chats.
+
 <!--
 **LoganMartinez/LoganMartinez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
